@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTS_Android</string>
+    <string name="nomor">Nomor</string>
+    <string name="nama">Nama</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="alamat">Alamat</string>
+    <string name="simpan">Simpan</string>
+    <string name="kembali">Kembali</string>
+    <string name="update">Update</string>
+</resources>

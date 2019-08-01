@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTS_Android</string>
+    <string name="nomor">Numero</string>
+    <string name="nama">Pangalan</string>
+    <string name="tanggal_lahir">Petsa Ng Kapanganakan</string>
+    <string name="jenis_kelamin">Kasarian</string>
+    <string name="alamat">Address</string>
+    <string name="simpan">I-save ito</string>
+    <string name="kembali">Bumalik</string>
+    <string name="update">Update</string>
+</resources>
